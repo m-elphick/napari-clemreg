@@ -14,7 +14,7 @@ conda activate clemreg_env
 ```
 Next, install `PyQt` with the following command via [conda](https://docs.conda.io/en/latest/):
 ```
-conda install -c anaconda pyqt
+conda install -c anaconda pyqt grpcio
 ```
 After, install `napari` with this command via [pip](https://pypi.org/project/pip/):
 ```
